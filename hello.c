@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("moda gudv gopikrishna\n");
+	printf(" gopikrishna\n");
 
 	return 0;
 
